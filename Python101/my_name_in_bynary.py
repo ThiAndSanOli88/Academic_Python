@@ -1,0 +1,7 @@
+print("Hello everyone, here is my assignment for this lesson.")
+print("Binary number per 8 \n0=0\n1=01\n2=010\n3=011\n4=100\n5=101\n6=110\n7=111")
+print("My name: Thiago")
+print("My name in decimal:\n\nT=84 h=104 i=105 a=97 g=103 o=111")
+print("\nMy name in Octal Decimal\n")
+print("My name in Octal Decimal:\nT=124\nh=150\ni=151\na=141\ng=147\no=157")
+print("My name in Binary number:\n\n01010100 01101000 01101001 01100111 01101111\n")

@@ -1,0 +1,8 @@
+print("Hello, World!")
+print("I'm so exited to learn Python!")
+print("here is my first assignment")
+print("thank you very much")
+print("I hope I can learn a lot of things in this course")
+print("I will try my best to learn Python")
+print("I will practice coding every day")
+print("Thank you for teaching me Python")
